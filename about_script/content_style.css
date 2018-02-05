@@ -1,0 +1,316 @@
+.area_1,.area_2
+{
+height:110%;
+width:39.5%;
+display:inline-block;
+background:white;
+position:inline-block;
+}
+.area_3
+{
+height:50%;
+width:79%;
+display:inline-block;
+background:white;
+position:inline-block;
+}
+.area_1
+{
+margin:0% 0% 0.15% 10.5%;
+}
+
+.area_2
+{
+margin:0% 10.5 0.15% -0.25%;
+}
+
+.area_3
+{
+margin:0% 0% 0.15% 10.5%;
+}
+
+.area_4
+{
+margin:0% 10.5 0.15% -0.25%;
+}
+
+.area_1:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:;
+}
+
+.area_2:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:white;
+}
+
+.area_3:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:;
+}
+
+.area_4:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:white;
+}
+
+.news_img
+{
+height:100%;
+width:100%;
+}
+
+.news_div
+{
+height:45.5%;
+width:63.5%;
+border:0px solid gray;
+margin:10% 0% 0% 21.5%;
+display:inline-block;
+}
+
+.news_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+font-family:"Roboto Mono";
+font-size:2.5em;
+color:#747474;
+text-decoration:none;
+
+}
+
+/*
+.news_text_link
+{
+font-family:"Roboto Mono";
+font-size:2.5em;
+color:#747474;
+text-decoration:none;
+}
+*/
+
+.review_img
+{
+height:92.9%;
+width:99%;
+}
+
+.review_div
+{
+height:46%;
+width:60%;
+border:0px solid gray;
+margin:9.3% 0% 0% 23.5%;
+display:inline-block;
+}
+
+.review_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+font-family:"Roboto Mono";
+font-size:2.5em;
+color:#747474;
+text-decoration:none;
+}
+
+
+.platform_img
+{
+height:100%;
+width:99%;
+}
+
+.platform_div
+{
+height:80%;
+width:35%;
+border:1px solid gray;
+margin:2% 0% 0% 5%;
+display:inline-block;
+}
+
+.platform_text_div
+{
+height:80%;
+width:35%;
+margin:2% 0% 0% 5%;
+border:0px solid gray;
+display:inline-block;
+
+}
+
+
+.platform_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#FBBC05;
+text-decoration:none;
+}
+
+.about_img
+{
+height:100%;
+width:99%;
+}
+
+.about_div
+{
+height:50%;
+width:50%;
+border:0px solid gray;
+margin:5% 0% 0% 25%;
+display:inline-block;
+}
+
+.about_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+
+}
+
+
+.about_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#EA4335;
+text-decoration:none;
+}
+
+
+.area1_button
+{
+margin:0% 0% 0% 90%;
+width:4%;
+height:5%;
+border:0px solid gray;
+}
+
+.area1_button:hover
+{
+margin:0% 0% 0% 90.5%;
+cursor:pointer;
+}
+
+.area1_button_img
+{
+margin-left:-30%;
+margin-top:-30%;
+opacity:0.5;
+}
+
+.footer_div
+{
+width:auto;
+height:30%;
+background-color:white;
+border:0px solid black;
+margin:6% 0% 0% 0%;
+}
+
+
+.footer_logo_div
+{
+height:98%;
+width:15%;
+border:0px solid gray;
+margin-left:15%;
+
+}
+.footer_logo_img
+{
+height:100%;
+width:100%;
+}
+
+.footer_text_div
+{
+height:10%;
+Width:30%;
+border:0px solid gray;
+display:inline-block;
+margin:-6% 0% 0% 55%;
+}
+
+.footer_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.2em;
+color:#9E9E9E;
+text-decoration:none;
+}
+
+
+.footer_text_link:hover
+{
+color:#EA4335;
+}
+
+
+
+.dot
+{
+font-family:"Roboto Mono";
+font-size:2em;
+color:#9E9E9E;
+}
+
+
+.about_text
+{
+font-family:"Roboto Mono";
+font-size:2.6em;
+color:#9E9E9E;
+margin:2.1% 0% 0% 10%;
+height:40%;
+width:90%;
+display:inline-block;
+border:0px  solid gray;
+}
+
+
+
+
+.social_div_main
+{
+heigh:12%;
+width:80%;
+border:0px solid #747474;
+margin:-10% auto 0% 15.5%;
+}
+
+
+.social_div1
+{
+border:0px solid gray;
+display:inline-block;
+height:9%;
+width:15%;
+margin:0% 0% 0% 4%;
+}
+
+
+.social_img1,.social_img2,.social_img3,.social_img4
+{
+height:100%;
+width:100%;
+}
+

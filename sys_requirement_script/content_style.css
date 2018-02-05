@@ -1,0 +1,378 @@
+.area_1,.area_2,.area_3, .area_4
+{
+height:80%;
+width:39.5%;
+display:inline-block;
+background:white;
+position:inline-block;
+}
+.area_1
+{
+margin:0% 0% 0.15% 10.5%;
+}
+
+.area_2
+{
+margin:0% 10.5 0.15% -0.25%;
+}
+
+.area_3
+{
+margin:0% 0% 0.15% 10.5%;
+}
+
+.area_4
+{
+margin:0% 10.5 0.15% -0.25%;
+}
+
+.area_1:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:;
+}
+
+.area_2:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:white;
+}
+
+.area_3:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:;
+}
+
+.area_4:hover
+{
+
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+background-color:white;
+}
+
+.news_img
+{
+height:100%;
+width:99%;
+}
+
+.news_div
+{
+height:50%;
+width:50%;
+border:0px solid gray;
+margin:5% 0% 0% 25%;
+display:inline-block;
+}
+
+.news_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+
+}
+
+
+.news_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#4285F4;
+text-decoration:none;
+}
+
+
+.review_img
+{
+height:100%;
+width:99%;
+}
+
+.review_div
+{
+height:50%;
+width:50%;
+border:0px solid gray;
+margin:5% 0% 0% 25%;
+display:inline-block;
+}
+
+.review_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+
+}
+
+
+.review_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#34A853;
+text-decoration:none;
+}
+
+.platform_img
+{
+height:100%;
+width:99%;
+}
+
+.platform_div
+{
+height:50%;
+width:50%;
+border:0px solid gray;
+margin:5% 0% 0% 25%;
+display:inline-block;
+}
+
+.platform_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+
+}
+
+
+.platform_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#FBBC05;
+text-decoration:none;
+}
+
+.about_img
+{
+height:100%;
+width:99%;
+}
+
+.about_div
+{
+height:50%;
+width:50%;
+border:0px solid gray;
+margin:5% 0% 0% 25%;
+display:inline-block;
+}
+
+.about_text_div
+{
+height:30%;
+width:80%;
+margin:5% auto 0% auto;
+border:0px solid gray;
+
+}
+
+
+.about_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.5em;
+color:#EA4335;
+text-decoration:none;
+}
+
+
+.area1_button
+{
+margin:-7.4% 0% 0% 90%;
+width:4%;
+height:5%;
+border:0px solid gray;
+display:inline-block;
+}
+
+.area1_button:hover
+{
+margin:-7.4% 0% 0% 90.5%;
+width:4%;
+height:5%;
+border:0px solid gray;
+display:inline-block;
+cursor:pointer;
+}
+
+.area1_button_img
+{
+margin-left:-30%;
+margin-top:-30%;
+opacity:0.5;
+}
+
+.footer_div
+{
+width:auto;
+height:30%;
+background-color:white;
+border:0px solid black;
+margin:7% 0% 0% 0%;
+}
+
+
+.footer_logo_div
+{
+height:98%;
+width:15%;
+border:0px solid gray;
+margin-left:15%;
+
+}
+.footer_logo_img
+{
+height:100%;
+width:100%;
+}
+
+.footer_text_div
+{
+height:30%;
+Width:35%;
+border:0px solid gray;
+display:inline-block;
+margin:-6% 0% 0% 55%;
+}
+
+.footer_text_link
+{
+font-family:"Roboto Mono";
+font-size:1.2em;
+color:#9E9E9E;
+text-decoration:none;
+}
+
+
+.footer_text_link:hover
+{
+color:#EA4335;
+}
+
+
+
+.dot
+{
+font-family:"Roboto Mono";
+font-size:2em;
+color:#9E9E9E;
+}
+
+
+
+.more_div
+{
+height:7%;
+width:20%;
+border:0px solid black;
+font-family:"Roboto Mono";
+font-size:1.2em;
+color:#9E9E9E;
+display:inline-block;
+margin:0% 0% 0% 73%;
+}
+
+
+
+.game_img_div
+{
+height:350px;
+width:250px;
+border:1px solid gray;
+margin:2% 0% 0% 10%;
+display:inline-block;
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+}
+
+.game_img
+{
+height:100%;
+width:100%;
+}
+
+.game_info_div
+{
+height:76%;
+width:60%;
+border:0px solid gray;
+display:block;
+margin:-29% 0% 0% 35%;
+}
+
+.game_title_div
+{
+height:15%;
+width:90%;
+border:0px solid black;
+font-family:"Roboto Mono";
+font-size:2em;
+color:#9E9E9E;
+display:inline-block;
+margin:-5% 0% 01% 0%;
+
+}
+
+.game_info
+{
+height:13%;
+width:25%;
+border:0px solid gray;
+display:inline-block;
+font-family:"Roboto Mono";
+font-size:1.3em;
+color:#9E9E9E;
+padding-top:2%;
+}
+
+.game_info1
+{
+height:13%;
+width:60%;
+border:0px solid gray;
+display:inline-block;
+font-family:"Roboto Mono";
+font-size:1.3em;
+color:#9E9E9E;
+padding-top:2%;
+}
+
+.req_img
+{
+height:100%;
+width:100%;
+}
+
+.req_box_div
+{
+border:0px solid black;
+height:70%;
+width:80%;
+margin:2% 0% 0% 10%;
+display:inline-block;
+
+}
+
+.req_title
+{
+border:0px solid gray;
+height:07%;
+width:100%;
+display:inline-block;
+font-family:"Roboto Mono";
+font-size:2.2em;
+color:#9E9E9E;
+align-text:center;
+margin:7% 0% 0% 0%;
+}

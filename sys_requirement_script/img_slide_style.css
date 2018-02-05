@@ -1,0 +1,22 @@
+.img_slide_div
+{
+border:1px transparent gray;
+height:60%;
+width:79%;
+margin:01% auto 0.1% auto;
+background-color:#FFFFFF;
+z-index:1;
+position: relative;
+}
+
+.req_div
+{
+border:1px transparent gray;
+height:90%;
+width:79%;
+margin:01% auto 0.1% auto;
+background-color:#FFFFFF;
+z-index:1;
+position: inline-block;
+}
+

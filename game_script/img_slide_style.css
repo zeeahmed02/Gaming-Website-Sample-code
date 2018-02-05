@@ -1,0 +1,13 @@
+.img_slide_div
+{
+border:1px transparent gray;
+height:15%;
+width:79%;
+margin:01% auto 0.1% auto;
+background-color:white;
+z-index:1;
+position: relative;
+}
+
+
+

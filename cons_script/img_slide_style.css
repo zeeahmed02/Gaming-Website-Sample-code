@@ -1,0 +1,19 @@
+.img_slide_div
+{
+border:1px transparent gray;
+height:75%;
+width:79%;
+margin:01% auto -3% auto;
+background-color:white;
+z-index:1;
+position: relative;
+}
+
+.cons_img
+{
+height:100%;
+width:100%;
+
+}
+
+

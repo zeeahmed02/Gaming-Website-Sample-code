@@ -1,0 +1,117 @@
+﻿html
+{
+height:100%;
+width:100%;
+
+}
+body
+{
+margin:0px;
+background-color:#eaeaea;
+}
+
+.menu_div1
+{
+height:32%;
+widtht:99%;
+background-color:#4285F4;
+box-shadow:0 0 10px 0 rgba(0,0,0,0.2),0 10px 10px 0 rgba(0,0,0,0.24);
+z-index:0;
+
+}
+.menu_div1:hover
+{
+}
+
+.logo
+{
+font-family:"Roboto Mono";
+font-size:3.5em;
+color:white;
+text-decoration:bold;
+margin:-2.4% 0% 0% 12.9%;
+display:inline-block;
+height:auto;
+width:auto;
+display:block;
+border:0px solid white;
+}
+.enter
+{
+opacity:0.4;
+content:"¬";
+}
+
+.menu_div
+{
+height:auto;
+width:auto;
+border:0px solid gray;
+margin:-12.2% 0% 0% 56.2%;
+}
+
+.nav_item_div
+{
+border:1px transparent;
+margin:0% 0% 0% 15%;
+display:block;
+height:auto;
+width:110%
+}
+
+.nav_item_div:hover
+{
+border-bottom:2px solid #f5f5f5;
+
+}
+#nav_item1
+{
+padding-bottom:30%;
+
+}
+#nav_item2
+{
+padding-bottom:15%;
+}
+#nav_item3
+{
+padding-bottom:30%;
+}
+#nav_item4
+{
+padding-bottom:30%;
+}
+#nav_item5
+{
+padding-bottom:30%;
+}
+.nav_link
+{
+text-decoration:none;
+font-family:"Roboto Mono";
+font-size:1.2em;
+color:white;
+}
+
+.nav_item
+{
+display:inline-block;
+margin: 0% 1% 0% 2%;
+
+}
+
+
+
+.icon
+{
+margin:1% -5% -1% 1%;
+height:150px;
+width:150px;
+display:inline-block;
+}
+
+.icon_img
+{
+height:177px;;
+width:175px;
+}
